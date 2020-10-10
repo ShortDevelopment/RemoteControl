@@ -1,2 +1,4 @@
 # RemoteControl
-Control your PC over Ethernet (Website)
+Control your PC over Ethernet (Website)   
+   
+<img src="Website.jpg" alt="Screenshot" />
